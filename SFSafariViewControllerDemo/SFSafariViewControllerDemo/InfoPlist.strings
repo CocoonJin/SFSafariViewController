@@ -1,9 +1,10 @@
 /* 
   InfoPlist.strings
-  PDFReader
+  SFSafariViewControllerDemo
+ 
+  Created by Cocoon Jin on 15/7/29.
+  Copyright © 2015年 Kdanmobile. All rights reserved.
+ */
 
-  Created by kdanmobile on 13-5-23.
-
-*/
 
 CFBundleDisplayName = "PDF Markup+";
